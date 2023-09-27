@@ -1,3 +1,5 @@
+'use client';
+
 import Avatar from '@/components/avatar/Avatar'
 import { Dots, Like, Send, Chat2, Bookmark, Voice, ImageComment } from '@/components/svgs'
 import Image from 'next/image'

@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { FormEvent, useEffect, useRef, useState } from 'react'
 
 import { useOutsideClick } from '@/hooks/useOutsideClick';
-import { useMediaQuery } from "@uidotdev/usehooks";
+import { useMediaQuery } from '@/hooks/useMediaQuery';
 
 import { navItems } from './items'
 

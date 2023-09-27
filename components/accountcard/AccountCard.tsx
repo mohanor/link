@@ -1,6 +1,6 @@
 'use client';
 
-import { useMediaQuery } from '@uidotdev/usehooks';
+import { useMediaQuery } from '@/hooks/useMediaQuery';
 import Avatar from '../avatar/Avatar'
 import { Plus } from '../svgs'
 import Image from 'next/image'
